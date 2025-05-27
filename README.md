@@ -19,6 +19,8 @@
   <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="30" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://files.brandlogos.net/svg/sbXzVXnLZr/angular-icon-logo-brandlogos.net_mkt2nazz1.svg" height="30" alt="Angular logo"  />
 </div>
 
 ###
