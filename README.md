@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://img.jsdelivr.com/github.com/vuejs.png" height="30" alt="vue logo"  />
+  <img src="https://files.brandlogos.net/svg/wAEwoUxA5r/Vue.js-OpWSKCSJX_brandlogos.net.svg" height="30" alt="vue logo"  />
   <img width="12" />
   <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="30" alt="vue logo"  />
   <img width="12" />
