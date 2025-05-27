@@ -16,19 +16,15 @@
   <img width="12" />
   <img src="https://img.jsdelivr.com/github.com/vuejs.png" height="30" alt="vue logo"  />
   <img width="12" />
-   <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="30" alt="vue logo"  />
+  <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="30" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="Nogaruki" target="_blank">
+  <a href="https://discord.com/invite/7E3W7aqnYS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/johann-avramov/" target="_blank">
