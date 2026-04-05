@@ -3,7 +3,6 @@
 **Full-Stack Engineer | TypeScript, React, Next.js, Node.js, Angular, Symfony**
 
 France (Antibes)  
-Open to relocate to Japan  
 Visa sponsorship required
 
 - Portfolio: https://johann.azur-it.fr/
@@ -18,7 +17,7 @@ Currently working at Orange on business-critical applications, including fronten
 
 Founder of multiple SaaS products with end-to-end ownership: product design, full-stack development, DevOps, integrations, and continuous iteration based on user needs.
 
-Interested in Full-Stack Engineer, Frontend Engineer, and Product Engineer roles in Japan.
+Interested in Full-Stack Engineer, Frontend Engineer, and Product Engineer roles.
 
 ## SaaS Products (Founder / Builder)
 
@@ -64,7 +63,7 @@ Developed a mobile experience focused on ingredient scanning and safety guidance
 
 ## Job Search Focus
 
-Seeking software engineering opportunities in Japan, especially in:
+Seeking software engineering opportunities, especially in:
 - Full-Stack Engineering
 - Frontend Engineering
 - Product Engineering
@@ -76,4 +75,3 @@ Seeking software engineering opportunities in Japan, especially in:
 
 - French: Native
 - English: Bilingual
-- Japanese: Basic
