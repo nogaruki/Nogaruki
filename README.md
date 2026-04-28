@@ -3,9 +3,7 @@
 **Full-Stack Engineer | TypeScript, React, Next.js, Node.js, Angular, Symfony**
 
 France (Antibes)  
-Visa sponsorship required
 
-- Portfolio: https://johann.azur-it.fr/
 - LinkedIn: https://www.linkedin.com/in/johann-avramov/
 - GitHub: https://github.com/Nogaruki
 
